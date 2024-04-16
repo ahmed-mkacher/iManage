@@ -1,0 +1,210 @@
+msgid "Confirm New Password"
+msgstr "Confirmer le nouveau mot de passe"
+
+msgid "Don"
+msgstr "Ne pas"
+
+msgid "Employee ID"
+msgstr "ID employé"
+
+msgid "Enter New Password"
+msgstr "Entrer le nouveau mot de passe"
+
+msgid "Enter OTP sent on registered email"
+msgstr "Entrez le OTP envoyé sur l'email enregistré"
+
+msgid "Forget Password?"
+msgstr "Mot de passe oublié?"
+
+msgid "Login"
+msgstr "Connexion"
+
+msgid "Login System"
+msgstr "Système de connexion"
+
+msgid "OR"
+msgstr "OU"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Reset Password"
+msgstr "Réinitialiser le mot de passe"
+
+msgid "Submit"
+msgstr "Soumettre"
+
+msgid "Update"
+msgstr "Mettre à jour"
+
+msgid "Add | Update"
+msgstr "Ajouter | Mettre à jour"
+
+msgid "All Products"
+msgstr "Tous les produits"
+
+msgid "Cart \t Total products: 0"
+msgstr "Panier \t Total des produits: 0"
+
+msgid "Clear"
+msgstr "Effacer"
+
+msgid "Clear\nall"
+msgstr "Tout effacer"
+
+msgid "Contact"
+msgstr "Contact"
+
+msgid "Customer Bill"
+msgstr "Facture client"
+
+msgid "Customer Details"
+msgstr "Détails du client"
+
+msgid "Discount\n5%"
+msgstr "Remise\n5%"
+
+msgid "Generate"
+msgstr "Générer"
+
+msgid "In Stock: 0"
+msgstr "En stock: 0"
+
+msgid "Logout"
+msgstr "Se déconnecter"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Note: Enter 0 quantity to remove product from the cart"
+msgstr "Note: Entrez 0 comme quantité pour retirer le produit du panier"
+
+msgid "Pay\n0"
+msgstr "Payer\n0"
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "Print"
+msgstr "Imprimer"
+
+msgid "Product Name"
+msgstr "Nom du produit"
+
+msgid "Quantity"
+msgstr "Quantité"
+
+msgid "Search"
+msgstr "Rechercher"
+
+msgid "Search By"
+msgstr "Rechercher par"
+
+msgid "Show All"
+msgstr "Montrer tout"
+
+msgid "Total Amount\n0"
+msgstr "Montant total\n0"
+
+msgid "Welcome to iData\t\t Date: DD-MM-YYYY\t\t Time: HH:MM:SS"
+msgstr "Bienvenue à iData\t\t Date: JJ-MM-AAAA\t\t Heure: HH:MM:SS"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Enter Category Name"
+msgstr "Entrer le nom de la catégorie"
+
+msgid "Manage Categories"
+msgstr "Gérer les catégories"
+
+msgid "Category"
+msgstr "Catégorie"
+
+msgid "Employee"
+msgstr "Employé"
+
+msgid "Exit"
+msgstr "Sortie"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Products"
+msgstr "Produits"
+
+msgid "Sales"
+msgstr "Ventes"
+
+msgid "Supplier"
+msgstr "Fournisseur"
+
+msgid "Total Categories\n 0 "
+msgstr "Total des catégories\n 0 "
+
+msgid "Total Employees\n 0 "
+msgstr "Total des employés\n 0 "
+
+msgid "Total Products\n 0 "
+msgstr "Total des produits\n 0 "
+
+msgid "Total Sales\n 0 "
+msgstr "Total des ventes\n 0 "
+
+msgid "Total Suppliers\n 0 "
+msgstr "Total des fournisseurs\n 0 "
+
+msgid "iData\t\temail@example.com"
+msgstr "iData\t\temail@example.com"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "D.O.B."
+msgstr "D.D.N."
+
+msgid "D.O.J."
+msgstr "D.D.E."
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Employee Details"
+msgstr "Détails de l'employé"
+
+msgid "Gender"
+msgstr "Genre"
+
+msgid "Salary"
+msgstr "Salaire"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "User type"
+msgstr "Type d'utilisateur"
+
+msgid "Product Details"
+msgstr "Détails du produit"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Bill Area"
+msgstr "Zone de facturation"
+
+msgid "Invoice No."
+msgstr "Numéro de facture"
+
+msgid "Manage Sales"
+msgstr "Gérer les ventes"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Supplier Details"
+msgstr "Détails du fournisseur"
+
